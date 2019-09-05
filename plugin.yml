@@ -1,0 +1,10 @@
+name: Envoys
+main: klaus\Envoys\Main
+version: 0.0.1
+api: [3.0.0]
+author: ArchonKlaus
+description: Spawn envoys in the warzone for you players to collect items
+
+commands:
+ setenvoy:
+  description: Set an envoy
