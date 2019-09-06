@@ -1,8 +1,8 @@
 name: Envoys
 main: klaus\Envoys\Main
 version: 0.0.1
-api: [3.0.0]
-author: ArchonKlaus
+api: [3.0.0
+author: BajanVlogs, ArchonKlaus
 description: Spawn envoys in the warzone for you players to collect items
 
 commands:
